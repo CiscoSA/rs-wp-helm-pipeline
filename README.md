@@ -62,7 +62,7 @@
 
        https://github.com/CiscoSA/rs-wp-helm-pipeline/actions/runs/11767992698/job/32777306447#step:5:28
 
-       ![](Screenshots/task5_5.png)     
+       ![](Screenshots/task5_6.png)     
        
 
    - **Documentation (10 points)**
