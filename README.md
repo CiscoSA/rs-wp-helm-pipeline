@@ -20,13 +20,19 @@
 
    - The application is deployed using the Helm chart.
      
-     https://github.com/CiscoSA/rs-wp-helm/actions/runs/11766433641/job/32773948574
+     https://github.com/CiscoSA/rs-wp-helm/actions/runs/11767863023/job/32777021131#step:4:10
 
      ![](Screenshots/task5_2.png)
+
+     https://github.com/CiscoSA/rs-wp-helm/actions/runs/11767863023/job/32777021131#step:5:27
 
      ![](Screenshots/task5_3.png)
 
    - The application is accessible from the internet.
+
+     ![](Screenshots/task5_4.png)
+
+     ![](Screenshots/task5_5.png)     
 
 3. **Repository Submission (5 points)**
 
@@ -41,9 +47,21 @@
 
    - The application is verified to be running and accessible.
 
+     ![](Screenshots/task5_3.png)
+
+     ![](Screenshots/task5_4.png)
+
+     ![](Screenshots/task5_5.png)     
+
+
 5. **Additional Tasks (20 points)**
    - **CI/CD Pipeline (10 points)**
      - A CI/CD pipeline is set up to automate the deployment of the application.
+
+       https://github.com/CiscoSA/rs-wp-helm-pipeline/blob/task_5/.github/workflows/deploy.yml
+
+       
+
    - **Documentation (10 points)**
      - The application setup and deployment process are documented in a README file.
 
