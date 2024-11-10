@@ -68,22 +68,6 @@
    - **Documentation (10 points)**
      - The application setup and deployment process are documented in a README file.
 
+       https://github.com/CiscoSA/rs-wp-helm-pipeline/blob/task_5/README.md
 
-### #######################################################################################     
-
-
-6. **Additional Tasks (10 points)**
-   - **GitHub Actions (GHA) Pipeline (5 points)**
-     - A GHA pipeline is set up to deploy Jenkins.
-       
-       - https://github.com/CiscoSA/rsschool-devops-course-tasks/blob/task_4/.github/workflows/deploy.yml
-
-   - **Authentication and Security (5 points)**
-     - Authentication and security settings are configured for Jenkins.
-       
-       ![](Screenshots/sec1.png)
-
-       ![](Screenshots/sec2.png)
-
-       ![](Screenshots/sec3.png)
-
+       https://github.com/CiscoSA/rs-wp-helm/blob/main/README.md
