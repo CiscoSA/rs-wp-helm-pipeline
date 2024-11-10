@@ -35,7 +35,7 @@ jobs:
 
       - name: deploy-wp
         run: |
-          wget https://github.com/CiscoSA/rsschool-devops-course-tasks/raw/refs/heads/dev/Screenshots/Chart-WP-0.1.0.tgz
+          wget https://github.com/CiscoSA/rs-wp-helm/raw/refs/heads/main/Chart-WP-0.1.0.tgz
           [ -f wp-version ] && helm upgrade my-wp ./Chart-WP-0.1.0.tgz --set wp.image=`cat wp-version` --set namespace=wp --set mysql.pass="${{ secrets.MYSQL_PASS }}" -n wp
 
 
